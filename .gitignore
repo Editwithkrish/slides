@@ -1,0 +1,3 @@
+# Source videos remain in the workspace root; their self-contained copies under
+# video-assets/ are versioned.
+/*.mp4
